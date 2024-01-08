@@ -1,0 +1,20 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual environment
+venv/
+
+# Node.js
+node_modules/
+
+# React
+/build/
+
+# IDE
+.vscode/
